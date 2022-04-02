@@ -3,5 +3,5 @@
 <ul>
   <li>Mediapipe - pip install mediapipe</li>
    <li>Opencv - pip install opencv-python</li>
-   <li>pip install pyfirmata</li>
+   <li>Pyfirmata - pip install pyfirmata</li>
 </ul>
