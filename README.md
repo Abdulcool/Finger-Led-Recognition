@@ -11,4 +11,4 @@ https://user-images.githubusercontent.com/82705966/161422025-deccf076-ca6b-4aaf-
 
 
 <h2 >NO Arduino Board is specified in the code so you can use anyone </h2>
-<h2 >Don't forget to write your correct comport where your Arduino is connected </h2>
+<h2 >Don't forget to write your correct comport where your Arduino is connected in th</h2>
