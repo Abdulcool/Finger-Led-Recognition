@@ -18,4 +18,4 @@
 <p>You can check the comport from your device manager in the Ports(Com & LPT) section</p>
 <br>
 <h3>Don't forget to Change the number.</h2>
-![Screenshot 2022-04-03 110700](https://user-images.githubusercontent.com/82705966/161434486-494cc591-747f-4612-b171-5f7a84ed9f0b.png)
+![image](https://user-images.githubusercontent.com/82705966/161434486-494cc591-747f-4612-b171-5f7a84ed9f0b.png?raw=true)
