@@ -2,16 +2,16 @@
 ```diff
 + Green
 - Red
-
+!orange
 @@ Pink @@
 # Gray
 <h1>Libraries you Need</h1>
 <ul>
- + <li>Mediapipe -pip install mediapipe</li>+
-  + <li>Opencv - pip install opencv-python</li>+
-   +<li>Pyfirmata - pip install pyfirmata</li>+
+  <li>Mediapipe -pip install mediapipe</li>
+   <li>Opencv - pip install opencv-python</li>
+   <li>Pyfirmata - pip install pyfirmata</li>
 </ul>
-```
+
 <h1>Your Arduino Board Should Like This</h1>
 
 	
@@ -31,4 +31,4 @@
 <h4> If you Have a built-in camera in your Computer/Laptop then you can keep the 0 but if it is an external camera change the 0 to 1</h4>
 
 
-
+```
