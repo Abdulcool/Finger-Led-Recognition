@@ -32,4 +32,5 @@
   }
 </style>
 
-<h2 class="red-text">CatPhotoApp</h2>
+<h2 class="red-text">CatPhotoApp</h2
+	+ C +
