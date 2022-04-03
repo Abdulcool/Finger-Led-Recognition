@@ -27,3 +27,4 @@
 <h4> If you Have a built-in camera in your Computer/Laptop then you can keep the 0 but if it is an external camera change the 0 to 1</h4>
 
 
+<h2 class="red-text" style="color: red;">CatPhotoApp</h2>
