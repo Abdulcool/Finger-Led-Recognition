@@ -17,4 +17,4 @@
 <h3>Don't forget to write your correct comport where your Arduino is connected in the Controller.py file</h2>
 <p>You can check the comport from your device manager in the Ports(Com & LPT) section</p>
 <br>
-<h3>Don't forget to </h2>
+<h3>Don't forget to Change the number.</h2>
