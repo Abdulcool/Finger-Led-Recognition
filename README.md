@@ -7,7 +7,6 @@
 </ul>
 
 <h1>Your Arduino Board Should Like This</h1>
-https://user-images.githubusercontent.com/82705966/161422025-deccf076-ca6b-4aaf-b762-67a70a0de915.png
 
 	
 ![image](https://user-images.githubusercontent.com/82705966/161422025-deccf076-ca6b-4aaf-b762-67a70a0de915.png?raw=true)
@@ -17,3 +16,5 @@ https://user-images.githubusercontent.com/82705966/161422025-deccf076-ca6b-4aaf-
 <h3>NO Arduino Board is specified in the code so you can use anyone </h2>
 <h3>Don't forget to write your correct comport where your Arduino is connected in the Controller.py file</h2>
 <p>You can check the comport from your device manager in the Ports(Com & LPT) section</p>
+<br>
+<h3>Don't forget to </h2>
