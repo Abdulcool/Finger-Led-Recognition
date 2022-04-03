@@ -11,4 +11,5 @@ https://user-images.githubusercontent.com/82705966/161422025-deccf076-ca6b-4aaf-
 
 
 <h2 >NO Arduino Board is specified in the code so you can use anyone </h2>
-<h2 >Don't forget to write your correct comport where your Arduino is connected in th</h2>
+<h2 >Don't forget to write your correct comport where your Arduino is connected in the Controller.py file</h2>
+<p>You can check the comport from your device manager in the Ports(Com & LPT) section</p>
