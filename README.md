@@ -1,5 +1,5 @@
 # Finger-Led-Recognition
-```diff
+
 
 @@<h1>Libraries you Need</h1>@@
 <ul>
@@ -8,9 +8,9 @@
    <li>Pyfirmata - pip install pyfirmata</li>
 </ul>
 
--<h1>Your Arduino Board Should Like This</h1>-
+<h1>Your Arduino Board Should Like This</h1>
 
-```	
+
 ![image](https://user-images.githubusercontent.com/82705966/161422025-deccf076-ca6b-4aaf-b762-67a70a0de915.png?raw=true)
 
 
@@ -25,6 +25,3 @@
 ![image](https://user-images.githubusercontent.com/82705966/161434486-494cc591-747f-4612-b171-5f7a84ed9f0b.png?raw=true)
 
 <h4> If you Have a built-in camera in your Computer/Laptop then you can keep the 0 but if it is an external camera change the 0 to 1</h4>
-
-
-
