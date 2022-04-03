@@ -1,5 +1,10 @@
 # Finger-Led-Recognition
-
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
 <h1>Libraries you Need</h1>
 <ul>
   <li>Mediapipe -pip install mediapipe</li>
@@ -25,10 +30,5 @@
 
 <h4> If you Have a built-in camera in your Computer/Laptop then you can keep the 0 but if it is an external camera change the 0 to 1</h4>
 
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
+
+```
