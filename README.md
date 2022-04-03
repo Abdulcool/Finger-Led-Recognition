@@ -2,7 +2,7 @@
 ```diff
 + Green
 - Red
-! Orange
+
 @@ Pink @@
 # Gray
 <h1>Libraries you Need</h1>
